@@ -29,8 +29,6 @@ The following restrictions were placed on the game as to simplify the implementa
 2. Investigate ways of not having business logic in `com.br.BoardGameActor.Move`'s toString method.
 3. Better error-handling.
 
-How to handle player that d
-
 ## Run
 
 `sbt run`
