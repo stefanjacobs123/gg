@@ -8,7 +8,7 @@ The project name "GG" is a wordplay (pun not intended) on "good game" & "goose g
 
 This implementation will focus only on running one game at a time.
  
-The game is implemented inside an actor. To run multiple games, would therefore require little modification. 
+The game is implemented inside an actor. To run multiple games would therefore require little modification. 
 
 ### Restrictions
 
@@ -31,3 +31,6 @@ The following restrictions were placed on the game as to simplify the implementa
 
 How to handle player that d
 
+## Run
+
+`sbt run`
